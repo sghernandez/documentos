@@ -9,7 +9,6 @@
 # Configuración.
 
 - cargar el proyecto en xampp, wampp, etc
-- dentrar al proyecto y renombrar _vendor a vendor
 - generar una base de datos llamada documentos
 - importar el script llamado documentos.sql
 - acceder desde el navegador: http://localhost/documentos/public/
